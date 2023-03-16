@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bcmixed"]
+	path = bcmixed
+	url = https://github.com/kzkzmr/bcmixed
+	shallow = true
+	registered = true
